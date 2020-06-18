@@ -2,6 +2,8 @@
 
 A mini shell that supports common unix commands plus a built-in guess game for fun.
 
+![mini-shell](mini-shell.gif)
+
 ## Test
 
 Compile and run mini-shell with the source code `shell.c`  or run the binary file `shell` provided in the release files.
